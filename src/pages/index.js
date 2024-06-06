@@ -7,7 +7,6 @@ const IndexPage = () => {
       <section className="home">
         <h1>Testing gatsby</h1>
       </section>
-
     </Layout>
   )
 }
